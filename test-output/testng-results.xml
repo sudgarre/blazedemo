@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13464" started-at="2020-10-23T14:05:46Z" finished-at="2020-10-23T14:05:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13464" started-at="2020-10-23T14:05:46Z" finished-at="2020-10-23T14:05:59Z">
+      <class name="org.sample.LogicSample">
+        <test-method status="PASS" signature="meth(java.lang.String, java.lang.String)[pri:0, instance:org.sample.LogicSample@66d2e7d9]" name="meth" duration-ms="13417" started-at="2020-10-23T14:05:46Z" finished-at="2020-10-23T14:05:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mexico City]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+      </class> <!-- org.sample.LogicSample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
